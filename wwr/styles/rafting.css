@@ -94,3 +94,7 @@ nav, p, section, article {
     margin: 0;
     border: 10px;
 }
+header {
+    display: inline;
+    
+}
